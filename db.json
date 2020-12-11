@@ -1,0 +1,9 @@
+{
+	"saludos":{
+		"hola":"hola"
+		},
+	"despidos":{
+		"chau":"chau",
+		"adios":"adios"
+		}
+}
