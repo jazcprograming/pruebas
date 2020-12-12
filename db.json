@@ -1,9 +1,46 @@
 {
-   "saludos":{
-      "hola":"hola"
-   },
-   "despidos":{
-      "chau":"chau",
-      "adios":"adios"
-   }
+   "frutas":[
+  {
+    "colorPrincipal": "#ff4444",
+    "descripcion": "fruta con diversas variedades",
+    "nombre": "manzana",
+    "precio": 3,
+    "unidad": "Kg"
+  },
+  {
+    "colorPrincipal": "#44ff44",
+    "descripcion": "fruta de temporada",
+    "nombre": "pera",
+    "precio": 5,
+    "unidad": "Kg"
+  },
+  {
+    "colorPrincipal": "#ffff44",
+    "descripcion": "fruta con mucho potasio",
+    "nombre": "platano",
+    "precio": 1,
+    "unidad": "unidad"
+  },
+  {
+    "colorPrincipal": "#aa4444",
+    "descripcion": "fruta con contenido de sodio",
+    "nombre": "piña",
+    "precio": 3,
+    "unidad": "unidad"
+  },
+  {
+    "colorPrincipal": "#ffff44",
+    "descripcion": "fruta muy rica pero no tan saludable",
+    "nombre": "mango",
+    "precio": 2,
+    "unidad": "Kg"
+  },
+  {
+    "colorPrincipal": "#ffaa44",
+    "descripcion": "fruta mas rica a nivel mundial",
+    "nombre": "naranja",
+    "precio": 1,
+    "unidad": "Kg"
+  }
+]
 }
